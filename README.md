@@ -23,6 +23,7 @@ utility.
   * RZ/V2L SMARC
 * RZ/Five SMARC
 * RZ/T2H EVK
+* RZ/N2H EVK
 
 ## Program Bootloaders using internal ROM and Flashwriter
 
